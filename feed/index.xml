@@ -8,7 +8,7 @@
 	>
 
 <channel>
-	<title>iKast</title>
+	<title>NOU</title>
 	<atom:link href="https://www.ikast.cf/feed/" rel="self" type="application/rss+xml" />
 	<link>https://www.ikast.cf</link>
 	<description>Commedia</description>
@@ -21,8 +21,8 @@
 	<generator>https://wordpress.org/?v=6.0.3</generator>
 
 <image>
-	<url>https://www.ikast.cf/wp-content/uploads/ikast-icon-i1.png</url>
-	<title>iKast</title>
+	<url>https://www.ikast.cf/wp-content/uploads/nou-icon-i.png</url>
+	<title>NOU</title>
 	<link>https://www.ikast.cf</link>
 	<width>32</width>
 	<height>32</height>

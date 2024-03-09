@@ -9,8 +9,8 @@
 
 <channel>
 	<title>NOU</title>
-	<atom:link href="https://www.ikast.cf/feed/" rel="self" type="application/rss+xml" />
-	<link>https://www.ikast.cf</link>
+	<atom:link href="https://nouxikast.github.io/nou/feed/" rel="self" type="application/rss+xml" />
+	<link>https://nouxikast.github.io/nou</link>
 	<description>Commedia</description>
 	<lastBuildDate>Fri, 28 Oct 2022 09:39:09 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -21,27 +21,27 @@
 	<generator>https://wordpress.org/?v=6.0.3</generator>
 
 <image>
-	<url>https://www.ikast.cf/wp-content/uploads/nou-icon-i.png</url>
+	<url>https://nouxikast.github.io/nou/wp-content/uploads/nou-icon-i.png</url>
 	<title>NOU</title>
-	<link>https://www.ikast.cf</link>
+	<link>https://nouxikast.github.io/nou</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
 	<item>
 		<title>Hello world!</title>
-		<link>https://www.ikast.cf/uncategorized/1/hello-world/</link>
-					<comments>https://www.ikast.cf/uncategorized/1/hello-world/#comments</comments>
+		<link>https://nouxikast.github.io/nou/uncategorized/1/hello-world/</link>
+					<comments>https://nouxikast.github.io/nou/uncategorized/1/hello-world/#comments</comments>
 		
 		<dc:creator><![CDATA[ikast]]></dc:creator>
 		<pubDate>Fri, 28 Oct 2022 09:39:09 +0000</pubDate>
 				<category><![CDATA[Uncategorized]]></category>
-		<guid isPermaLink="false">https://www.ikast.cf/?p=1</guid>
+		<guid isPermaLink="false">https://nouxikast.github.io/nou/?p=1</guid>
 
 					<description><![CDATA[Welcome to WordPress. This is your first post. Edit or delete it, then start writing!]]></description>
 										<content:encoded><![CDATA[<p>Welcome to WordPress. This is your first post. Edit or delete it, then start writing!</p>
-<p><a href="https://www.ikast.cf/uncategorized/1/hello-world/" rel="nofollow">Source</a></p>]]></content:encoded>
+<p><a href="https://nouxikast.github.io/nou/uncategorized/1/hello-world/" rel="nofollow">Source</a></p>]]></content:encoded>
 					
-					<wfw:commentRss>https://www.ikast.cf/uncategorized/1/hello-world/feed/</wfw:commentRss>
+					<wfw:commentRss>https://nouxikast.github.io/nou/uncategorized/1/hello-world/feed/</wfw:commentRss>
 			<slash:comments>1</slash:comments>
 		
 		

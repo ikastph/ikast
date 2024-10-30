@@ -7,9 +7,9 @@
 	>
 <channel>
 	<title>
-	Comments for NOU	</title>
-	<atom:link href="https://nouxikast.github.io/nou/comments/feed/" rel="self" type="application/rss+xml" />
-	<link>https://nouxikast.github.io/nou</link>
+	Comments for MUX	</title>
+	<atom:link href="https://muxdigital.github.io/mux/comments/feed/" rel="self" type="application/rss+xml" />
+	<link>https://muxdigital.github.io/mux</link>
 	<description>Commedia</description>
 	<lastBuildDate>Fri, 28 Oct 2022 09:39:09 +0000</lastBuildDate>
 	<sy:updatePeriod>
@@ -20,11 +20,11 @@
 	<item>
 		<title>
 		Comment on Hello world! by A WordPress Commenter		</title>
-		<link>https://nouxikast.github.io/nou/uncategorized/1/hello-world/#comment-1</link>
+		<link>https://muxdigital.github.io/mux/uncategorized/1/hello-world/#comment-1</link>
 
 		<dc:creator><![CDATA[A WordPress Commenter]]></dc:creator>
 		<pubDate>Fri, 28 Oct 2022 09:39:09 +0000</pubDate>
-		<guid isPermaLink="false">https://nouxikast.github.io/nou/?p=1#comment-1</guid>
+		<guid isPermaLink="false">https://muxdigital.github.io/mux/?p=1#comment-1</guid>
 
 					<description><![CDATA[Hi, this is a comment.
 To get started with moderating, editing, and deleting comments, please visit the Comments screen in the dashboard.
